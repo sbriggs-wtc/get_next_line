@@ -1,2 +1,1 @@
-# get_next_line
-Complete
+A program that reads input from a file descriptor
