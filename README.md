@@ -1,1 +1,1 @@
-A program that reads input from a file descriptor
+A C program that reads input from a file descriptor
